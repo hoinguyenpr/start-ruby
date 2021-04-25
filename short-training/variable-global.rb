@@ -1,4 +1,5 @@
 $global_var =  10
+
 class GlobalTest
     def print_global()
         puts "Global variable is #$global_var"
